@@ -1,0 +1,67 @@
+:root{
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    width: 883px;
+}
+
+img, iframe{
+    width: 883px;
+    height: 374px;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 89px;
+    line-height: 79px;
+    color:  #FFB300;
+}
+
+#autor{
+    color: black;
+    font-size: 21px;
+    font-weight: 700;
+    text-align: right;
+}
+
+p{
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.61;
+    color: black;
+    width: 883px;
+}
+
+p span{
+    font-weight: 900;
+}
+
+hr{
+    color: rgb(88, 84, 84);
+    background-color: rgb(99, 92, 92);
+    height: 5px;
+    margin-left: 0;
+    margin-top: 34px;
+    margin-bottom: 34px;
+    /* width: 883px; */
+}
+
+h2{
+    font-weight: 700;
+    font-size: 34px;
+    color: #FFB300;
+}
+
+ul li, ol li{
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 34px;
+}
+
+p a{
+    font-size: 21px;
+    font-weight: 900;
+    color:0037b3;
+
+}
